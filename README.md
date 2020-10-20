@@ -4,7 +4,7 @@ My name is Danilo Najkov and I am a student at [FINKI](https://www.finki.ukim.mk
 
 ### Stats
 [![Danilo's github stats](https://github-readme-stats.vercel.app/api?username=dani2221&count_private=trueshow_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dani2221&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/dani2221)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dani2221&langs_count=3)](https://github.com/dani2221)
 
 ### My favorite side projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dani2221&repo=mktocak)](https://github.com/dani2221/mktocak)
