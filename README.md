@@ -14,7 +14,7 @@ My name is Danilo Najkov and I am a student at [FINKI](https://www.finki.ukim.mk
 
 
 ### 📫 How to reach me: 
-- [📧 E-mail](mailto:danilo.najkov@students.finki.ukim.mk)
+- [📧 Email](mailto:danilo.najkov@students.finki.ukim.mk)
 
 <!--
 **dani2221/dani2221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
