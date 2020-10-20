@@ -14,7 +14,7 @@ My name is Danilo Najkov and I am a student at [FINKI](https://www.finki.ukim.mk
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dani2221&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me: 
-- [📧](danilo.najkov@students.finki.ukim.mk)
+- [📧](mailto:danilo.najkov@students.finki.ukim.mk)
 
 <!--
 **dani2221/dani2221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
