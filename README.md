@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello world! 👋
+
+My name is Danilo Najkov and I am a student at [FINKI](https://www.finki.ukim.mk/en). I love working on side projects!
+
+[![Danilo's github stats](https://github-readme-stats.vercel.app/api?username=dani2221&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dani2221/dani2221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
