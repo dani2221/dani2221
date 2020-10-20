@@ -1,16 +1,16 @@
 # Hello world! 👋
+# Hello world! 👋
 
 My name is Danilo Najkov and I am a student at [FINKI](https://www.finki.ukim.mk/en). I love working on side projects!
 
 ### Stats
 [![Danilo's github stats](https://github-readme-stats.vercel.app/api?username=dani2221&count_private=trueshow_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Favorite repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dani221&repo=mktocak)](https://github.com/dani2221/mktocak)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dani221&repo=everything-party)](https://github.com/dani2221/everything-party)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dani221&repo=NovoMK)](https://github.com/dani2221/NovoMK)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dani221&repo=nitrify-discord)](https://github.com/dani2221/nitrify-discord)
-### Most used languages
+### Some of my repos
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dani2221&repo=mktocak)](https://github.com/dani2221/mktocak)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dani2221&repo=everything-party)](https://github.com/dani2221/everything-party)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dani2221&repo=NovoMK)](https://github.com/dani2221/NovoMK)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dani2221&repo=nitrify-discord)](https://github.com/dani2221/nitrify-discord)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dani2221&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 <!--
