@@ -14,6 +14,7 @@ My name is Danilo Najkov and I am a student at [FINKI](https://www.finki.ukim.mk
 
 
 ### 📫 How to reach me: 
+- [<img src='https://lh3.googleusercontent.com/proxy/2lzN7YX4VLY3Ow3wxr45xq-yXbXVae4bHdSgbPos3olEfwogO3HxnKbO_j_WEJFRX2CICXXexv45GX90plX0xoM7mLo2kfGmxTDbVtveOto_fse1mj07yU66dJnH5kbSY3c'></img> LinkedIn](https://www.linkedin.com/in/danilo-najkov/)
 - [📧 Email](mailto:danilo.najkov@students.finki.ukim.mk)
 
 <!--
