@@ -1,7 +1,6 @@
 # Hello world! 👋
 
-### St
-ats
+### Stats
 [![Danilo's github stats](https://github-readme-stats.vercel.app/api?username=dani2221&count_private=trueshow_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dani2221&langs_count=3)](https://github.com/dani2221)
 
